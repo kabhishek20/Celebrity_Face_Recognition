@@ -10,8 +10,8 @@ A <code>**Data Science Project**</code> to Identify the <code>**Name of Celebrit
 - <code>**wavelet function**</code> was used to get the features of the face to identify the name correctly.
 - The model was saved in the form of <code>**pickle file**</code> to avoid the training of model again and the classes was saved in the <code>**json file**</code>.
 
-> iypnb file : [Click here]()
+> iypnb file : [Click here](https://github.com/kabhishek20/Celebrity_Face_Recognition/blob/main/Face_Recognition.ipynb)
 
-> pickle file : [Click here]()
+> pickle file : [Click here](https://github.com/kabhishek20/Celebrity_Face_Recognition/blob/main/Face_Recognition_Model.pickle)
 
-> json file : [Click here]()
+> json file : [Click here](https://github.com/kabhishek20/Celebrity_Face_Recognition/blob/main/class_dictionary.json)
